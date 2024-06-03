@@ -1,0 +1,16 @@
+#
+#Thu May 26 15:29:38 SGT 2022
+style=bold
+alphabet=
+color=\#00ccff
+shadow.y=0
+family=ARCADECLASSIC.ttf
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=0
+chars=all
+gradient.color=\#00ffff
+stroke.size=0
+antialias=true
+size=72
